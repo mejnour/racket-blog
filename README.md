@@ -1,2 +1,2 @@
 # racket-blog
-Web Apps with Racket.
+Walk-thru around Racket's webdev as tutored by Web Applications with Racket online doc.
